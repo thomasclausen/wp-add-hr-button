@@ -3,7 +3,7 @@
 Plugin Name: Horizontal rule button
 Description: Add horizontal rule button to TinyMCE.
 Version: 0.1
-License: GPLv2 or later
+License: GPLv2
 Author: Thomas Clausen
 Author URI: http://www.thomasclausen.dk/wordpress/
 */
