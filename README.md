@@ -8,7 +8,7 @@ Currently no examples...
 
 # Usage
 
-Just activate the plugin.
+Download it, upload it and activate it!
 
 # Feedback
 
